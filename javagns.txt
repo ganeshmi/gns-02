@@ -1,2 +1,6 @@
 "git is fast version"
+<<<<<<< HEAD
 "git is lightweight"
+=======
+"git widely used"
+>>>>>>> 608f04bf1cd72c23098b9e6fc5adb91a445e572c
